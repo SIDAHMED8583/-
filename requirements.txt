@@ -4,4 +4,3 @@ numpy
 yfinance
 ta
 plotly
-pywhatkit
